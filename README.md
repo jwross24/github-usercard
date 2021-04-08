@@ -64,7 +64,7 @@ pieces.
 
 ### Part 1: Requesting Data from the GitHub API
 
-- [ ] Follow the instructions found in the `GitHubCard/index.js` file to request
+- [x] Follow the instructions found in the `GitHubCard/index.js` file to request
       data from the GitHub API.
 
 ### Part 2: Create the component function
